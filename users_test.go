@@ -3,7 +3,7 @@ package calendly_test
 import (
 	"testing"
 
-	"github.com/helixspiral/calendly"
+	"github.com/alexadhy/calendly"
 )
 
 func TestGetCurrentUser(t *testing.T) {
